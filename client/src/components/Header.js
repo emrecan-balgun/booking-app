@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className="container mx-auto p-5">
+    <div className="container mx-auto pt-5 pb-5">
         <div className="flex justify-between text-white">
             <span className="text-2xl font-semibold">BE Booking</span>
             <div className="flex gap-2">
