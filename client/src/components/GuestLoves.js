@@ -1,6 +1,6 @@
 function GuestLoves() {
   return (
-    <div className="container mx-auto mt-10 mb-20">
+    <div className="container mx-auto mt-10">
         <h1 className="font-bold text-xl">Homes guests love</h1>
         <div className="flex justify-between items-center mt-8">
             <div>

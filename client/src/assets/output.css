@@ -752,6 +752,10 @@ video {
   height: 1.5rem;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .w-10 {
   width: 2.5rem;
 }
@@ -858,6 +862,10 @@ video {
   align-items: center;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .justify-between {
   justify-content: space-between;
 }
@@ -882,6 +890,14 @@ video {
   gap: 0.25rem;
 }
 
+.gap-10 {
+  gap: 2.5rem;
+}
+
+.gap-3 {
+  gap: 0.75rem;
+}
+
 .gap-x-2 {
   -webkit-column-gap: 0.5rem;
           column-gap: 0.5rem;
@@ -894,6 +910,10 @@ video {
 .gap-x-20 {
   -webkit-column-gap: 5rem;
           column-gap: 5rem;
+}
+
+.gap-y-2 {
+  row-gap: 0.5rem;
 }
 
 .rounded-full {
@@ -954,6 +974,11 @@ video {
   background-color: rgb(30 58 138 / var(--tw-bg-opacity));
 }
 
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
+}
+
 .object-cover {
   object-fit: cover;
 }
@@ -972,6 +997,22 @@ video {
 
 .p-0 {
   padding: 0px;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.p-3 {
+  padding: 0.75rem;
 }
 
 .py-2 {
@@ -1121,12 +1162,61 @@ video {
   color: rgb(31 41 55 / var(--tw-text-opacity));
 }
 
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 .transition-colors {
   transition-property: color, background-color, border-color, fill, stroke, -webkit-text-decoration-color;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
+}
+
+.placeholder\:p-12::-webkit-input-placeholder {
+  padding: 3rem;
+}
+
+.placeholder\:p-12::placeholder {
+  padding: 3rem;
+}
+
+.placeholder\:p-4::-webkit-input-placeholder {
+  padding: 1rem;
+}
+
+.placeholder\:p-4::placeholder {
+  padding: 1rem;
+}
+
+.placeholder\:text-sm::-webkit-input-placeholder {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.placeholder\:text-sm::placeholder {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.placeholder\:text-lg::-webkit-input-placeholder {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.placeholder\:text-lg::placeholder {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.placeholder\:tracking-tight::-webkit-input-placeholder {
+  letter-spacing: -0.025em;
+}
+
+.placeholder\:tracking-tight::placeholder {
+  letter-spacing: -0.025em;
 }
 
 .hover\:bg-blue-800:hover {

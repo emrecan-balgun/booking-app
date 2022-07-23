@@ -3,6 +3,7 @@ import GuestLoves from './components/GuestLoves';
 import Header from './components/Header';
 import HeaderSection from './components/HeaderSection';
 import SearchSection from './components/SearchSection';
+import Subscribe from './components/Subscribe';
 import Type from './components/Type';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Cities />
           <Type />
           <GuestLoves />
+          <Subscribe />
       </div>
     </div>
   );
