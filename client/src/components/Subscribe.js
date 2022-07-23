@@ -1,6 +1,6 @@
 function Subscribe() {
   return (
-    <div className="w-full mt-10 mb-20">
+    <div className="w-full mt-10">
         <div className="bg-blue-900 flex flex-col gap-3 items-center justify-center text-white p-10">
             <h1 className="font-bold text-4xl">Save time, save money!</h1>
             <h2 className="tracking-tight">Sign up and we'll send the best deals to you</h2>

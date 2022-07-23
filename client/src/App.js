@@ -1,4 +1,5 @@
 import Cities from './components/Cities';
+import Footer from './components/Footer';
 import GuestLoves from './components/GuestLoves';
 import Header from './components/Header';
 import HeaderSection from './components/HeaderSection';
@@ -19,6 +20,7 @@ function App() {
           <Type />
           <GuestLoves />
           <Subscribe />
+          <Footer />
       </div>
     </div>
   );
