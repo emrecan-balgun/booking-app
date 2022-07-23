@@ -1,6 +1,6 @@
 function Type() {
   return (
-    <div className="container mx-auto mb-20">
+    <div className="container mx-auto">
         <h1 className="font-bold text-xl">Browse by property type</h1>
         <div className="flex justify-between items-center mt-8">
             <div>

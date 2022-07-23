@@ -1,4 +1,5 @@
 import Cities from './components/Cities';
+import GuestLoves from './components/GuestLoves';
 import Header from './components/Header';
 import HeaderSection from './components/HeaderSection';
 import SearchSection from './components/SearchSection';
@@ -15,6 +16,7 @@ function App() {
       <div className="content">
           <Cities />
           <Type />
+          <GuestLoves />
       </div>
     </div>
   );
