@@ -1,4 +1,4 @@
-import Category from './components/Category';
+import Cities from './components/Cities';
 import Header from './components/Header';
 import HeaderSection from './components/HeaderSection';
 import SearchSection from './components/SearchSection';
@@ -6,12 +6,14 @@ import SearchSection from './components/SearchSection';
 function App() {
   return (
     <div className="main">
-      <div className="bg-blue-800">
+      <div className="bg-blue-900">
           <Header />
-          <Category />
           <HeaderSection />
           <SearchSection />
-        </div>
+      </div>
+      <div className="content">
+          <Cities />
+      </div>
     </div>
   );
 }

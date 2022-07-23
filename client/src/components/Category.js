@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaBed, FaTaxi } from 'react-icons/fa';
 import { MdFlight } from 'react-icons/md';
 import { AiFillCar } from 'react-icons/ai';
