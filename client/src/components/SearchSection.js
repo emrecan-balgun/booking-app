@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaBed, FaCalendarAlt } from 'react-icons/fa';
 import { IoIosMan } from 'react-icons/io';
 

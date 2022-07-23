@@ -1,5 +1,3 @@
-import React from 'react'
-
 function HeaderSection() {
   return (
     <div className="container mx-auto pt-5 pb-12 text-white">
