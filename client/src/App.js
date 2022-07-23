@@ -2,6 +2,7 @@ import Cities from './components/Cities';
 import Header from './components/Header';
 import HeaderSection from './components/HeaderSection';
 import SearchSection from './components/SearchSection';
+import Type from './components/Type';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       </div>
       <div className="content">
           <Cities />
+          <Type />
       </div>
     </div>
   );
