@@ -17,23 +17,23 @@ function SearchFilter() {
           <div className='flex flex-col gap-y-2 p-3'>
             <div className='flex flex-row justify-between'>
               <h3 className='text-xs text-slate-600'>Min price per night</h3>
-              <input type="number" className='w-1/5 border-black border-[1px]' />
+              <input type="number" className='w-1/5 pl-1 border-black border-[1px]' />
             </div>
             <div className='flex flex-row justify-between'>
               <h3 className='text-xs text-slate-600'>Max price per night</h3>
-              <input type="number" className='w-1/5 border-black border-[1px]' />
+              <input type="number" className='w-1/5 pl-1 border-black border-[1px]' />
             </div>
             <div className='flex flex-row justify-between'>
               <h3 className='text-xs text-slate-600'>Adult</h3>
-              <input type="number" className='w-1/5 placeholder:p-1 border-black border-[1px]' placeholder='1' />
+              <input type="number" className='w-1/5 pl-1 border-black border-[1px]' placeholder='1' />
             </div>
             <div className='flex flex-row justify-between'>
               <h3 className='text-xs text-slate-600'>Children</h3>
-              <input type="number" className='w-1/5 placeholder:p-1 border-black border-[1px]' placeholder='0' />
+              <input type="number" className='w-1/5 pl-1 border-black border-[1px]' placeholder='0' />
             </div>
             <div className='flex flex-row justify-between'>
               <h3 className='text-xs text-slate-600'>Room</h3>
-              <input type="number" className='w-1/5 placeholder:p-1 border-black border-[1px]' placeholder='1' />
+              <input type="number" className='w-1/5 pl-1 border-black border-[1px]' placeholder='1' />
             </div>
           </div>
           <button className='bg-blue-700 p-2 mt-4 text-sm text-slate-200 text-center w-full'>Search</button>
