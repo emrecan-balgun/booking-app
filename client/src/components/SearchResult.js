@@ -129,7 +129,7 @@ function SearchResult() {
         <div className="flex flex-col justify-between">
           <div className='flex flex-row space-x-5 justify-end'>
             <h2 className='font-medium'>Excellent</h2>
-            <h2 className='h-7 bg-blue-900 text-white p-1 flex items-center font-semibold'>8.9</h2>
+            <h2 className='h-7 bg-blue-900 text-white p-1 flex items-center font-semibold'>8.8</h2>
           </div>
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
