@@ -26,7 +26,7 @@ function SearchResult() {
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
             <h2 className='text-slate-600 text-xs opacity-90'>Includes taxes and fees</h2>
-            <button className='bg-blue-700 font-bold w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
+            <button className='bg-blue-700 font-bold text-sm w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
           </div>
         </div>
       </div>   
@@ -53,7 +53,7 @@ function SearchResult() {
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
             <h2 className='text-slate-600 text-xs opacity-90'>Includes taxes and fees</h2>
-            <button className='bg-blue-700 font-bold w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
+            <button className='bg-blue-700 font-bold text-sm w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
           </div>
         </div>
       </div>   
@@ -80,7 +80,7 @@ function SearchResult() {
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
             <h2 className='text-slate-600 text-xs opacity-90'>Includes taxes and fees</h2>
-            <button className='bg-blue-700 font-bold w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
+            <button className='bg-blue-700 font-bold text-sm w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
           </div>
         </div>
       </div>   
@@ -107,7 +107,7 @@ function SearchResult() {
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
             <h2 className='text-slate-600 text-xs opacity-90'>Includes taxes and fees</h2>
-            <button className='bg-blue-700 font-bold w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
+            <button className='bg-blue-700 font-bold text-sm w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
           </div>
         </div>
       </div>   
@@ -134,7 +134,7 @@ function SearchResult() {
           <div className="flex flex-col items-end space-y-1">
             <h2 className='text-2xl font-normal'>$112</h2>
             <h2 className='text-slate-600 text-xs opacity-90'>Includes taxes and fees</h2>
-            <button className='bg-blue-700 font-bold w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
+            <button className='bg-blue-700 font-bold text-sm w-max rounded-md pr-7 pl-7 pt-2 pb-2 text-slate-100'>See availability</button>
           </div>
         </div>
       </div>   
